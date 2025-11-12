@@ -21,15 +21,6 @@ The dataset contains information about houses with features like:
 - Amenities (mainroad, guestroom, basement, etc.)
 - Price (target variable)
 
-## Project Structure
-
-```
-├── House_Price_Prediction.ipynb   # Main notebook
-├── housing_data.csv                # Dataset file
-├── requirements.txt                # Python dependencies
-└── README.md                       # This file
-```
-
 ## Installation
 
 1. Install required libraries:
@@ -54,11 +45,6 @@ jupyter notebook House_Price_Prediction.ipynb
 - scikit-learn
 - jupyter
 
-## Models Used
-
-1. **Linear Regression** - Baseline model
-2. **Random Forest Regressor** - Advanced ensemble model
-
 ## Results
 
 - R² Score: ~0.95+
@@ -71,11 +57,3 @@ jupyter notebook House_Price_Prediction.ipynb
 2. Click "Download" button
 3. Extract the CSV file
 4. Place it in the project folder
-
-## Author
-
-Data Science Intern Project
-
-## License
-
-MIT License
